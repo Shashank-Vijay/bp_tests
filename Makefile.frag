@@ -47,7 +47,8 @@ BP_DEMOS_C = \
   satp_nofence \
   timer_interrupt_test \
   loop_test \
-  cache_flush
+  cache_flush \
+  dram_test
 
 BP_DEMOS_S = \
 	simple                \
